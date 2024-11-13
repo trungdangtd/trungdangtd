@@ -1,6 +1,6 @@
 
 - 🔭 I’m currently study on HUFLIT
-- 💬 Ask me about my life 
-- 📫 How to reach me: trungdang1301@gmail.com
-- ⚡ Fun fact: I luv Java & Mobile dev :heart:
+- 💬 Ask me about my life & my code
+- 📫 How to contact me: trungdang1301@gmail.com
+- ⚡ Fun fact: I love Java & want to become Mobile dev :heart:
 
